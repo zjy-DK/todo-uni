@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "crypto-js": "^4.2.0",
+    "dayjs": "^1.11.13",
+    "js-md5": "^0.8.3",
+    "jsencrypt": "^3.3.2"
+  }
+}
